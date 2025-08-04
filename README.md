@@ -19,7 +19,7 @@ MosApp-Python GUI ile Ayakkabı Mağazaları İçin Otomasyon Programı(TR)
 
 Programın Amacı: ayakkabı mağazaları için barkod cihazları ile entegre kullanılabilecek bir masaüstü programı geliştirmek.
 
-Propgram Özellikleri:
+Program Özellikleri:
 Barkod okuma cihazları veya klavye ile kullanılabilir.
 Ürünlerin sistemde kayıt durumunu kontrok eder.
 Sistemde kayıtlı olmayan ürünler için kayıt ekranı sunar.
